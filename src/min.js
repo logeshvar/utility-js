@@ -1,4 +1,4 @@
-var min = function(my_array,mini) {
+var min = (my_array,mini) => {
     if (my_array.length === 0) {
       return mini;
     }

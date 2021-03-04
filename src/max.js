@@ -1,4 +1,4 @@
-var max = function(my_array,maxi) {
+var max = (my_array,maxi) =>{
     if (my_array.length === 0) {
       return maxi;
     }
